@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlusegunMichael
 - 👀 I’m interested in Data Science & Business Analytics
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Projects and Open to Learning to improve my Experience
+- 🌱 I’m currently working on DevOps Tools and Learning AWS, Ansible.
+- 💞️ I’m looking to collaborate on anything Data Science and Cloud and Open to Learning to improve my Experience
 - 📫 How to reach me- Reached me via my email segunalawode@gmail.com
 
 <!---
